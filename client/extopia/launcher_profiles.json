@@ -1,0 +1,155 @@
+{
+	"settings": {
+		"channel": "beta",
+		"crashAssistance": true,
+		"enableAdvanced": false,
+		"enableAnalytics": true,
+		"enableHistorical": false,
+		"enableReleases": true,
+		"enableSnapshots": false,
+		"keepLauncherOpen": false,
+		"locale": "fr-FR",
+		"profileSorting": "ByLastPlayed",
+		"showGameLog": false,
+		"showMenu": false,
+		"soundOn": false
+	},
+	"launcherVersion": {
+		"format": 21,
+		"name": "",
+		"profilesFormat": 2
+	},
+	"clientToken": "ad84ff2c2e9b45d0bf2ce1346c2c2766",
+	"profiles": {
+		"2be900512d368f53c64d08f71204bd81": {
+			"created": "2019-07-12T17:17:16.940Z",
+			"icon": "Furnace",
+			"lastUsed": "2019-07-30T14:29:01.248Z",
+			"lastVersionId": "1.12.2",
+			"name": "sdgh",
+			"type": "custom"
+		},
+		"75079c4404fc497863d339e437e0fab7": {
+			"created": "2019-07-15T11:56:25.941Z",
+			"icon": "Carved_Pumpkin",
+			"javaArgs": "-Xmx6G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+			"lastUsed": "2019-07-15T16:26:36.456Z",
+			"lastVersionId": "1.10.2-forge1.10.2-12.18.3.2185",
+			"name": "FTNL",
+			"type": "custom"
+		},
+		"OptiFine": {
+			"created": "2019-07-22T18:56:52.737Z",
+			"icon": "Furnace",
+			"javaArgs": "-Xms2048M -Xmx10G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=64M",
+			"lastUsed": "2019-10-22T10:30:42.909Z",
+			"lastVersionId": "1.12.2-OptiFine_HD_U_E3",
+			"name": "OptiFine",
+			"type": "custom"
+		},
+		"94728dbd3a6f5085b2fa5b7e0f4b3d87": {
+			"created": "2019-07-28T21:02:39.825Z",
+			"icon": "Furnace",
+			"lastUsed": "2019-07-28T21:02:52.402Z",
+			"lastVersionId": "1.10.2",
+			"name": "1.10.2",
+			"type": "custom"
+		},
+		"6107da962dfcedd68164b3266b35e0e7": {
+			"created": "1970-01-01T00:00:00.000Z",
+			"icon": "Grass",
+			"lastUsed": "1970-01-01T00:00:00.000Z",
+			"lastVersionId": "latest-release",
+			"name": "",
+			"type": "latest-release"
+		},
+		"5c50eebdce7fca787b233898cc3e4bde": {
+			"created": "2019-07-31T14:49:06.069Z",
+			"icon": "Furnace",
+			"lastUsed": "2019-08-01T19:30:17.289Z",
+			"lastVersionId": "1.12.2",
+			"name": "1.12.2",
+			"type": "custom"
+		},
+		"Forge": {
+			"icon": "Furnace",
+			"javaArgs": "-Xmx10G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+			"lastUsed": "2019-07-27T16:25:54.431Z",
+			"lastVersionId": "1.7.10-Forge10.13.4.1558-1.7.10",
+			"name": "",
+			"type": ""
+		},
+		"c2af789e0554ea8992802631fb12af8d": {
+			"created": "1970-01-01T00:00:00.000Z",
+			"icon": "Crafting_Table",
+			"lastUsed": "1970-01-01T00:00:00.000Z",
+			"lastVersionId": "latest-snapshot",
+			"name": "",
+			"type": "latest-snapshot"
+		},
+		"dcdfe0470737b6222513d534a56cb4a9": {
+			"created": "2019-07-31T13:45:00.942Z",
+			"icon": "Furnace",
+			"lastUsed": "2019-08-21T21:26:43.830Z",
+			"lastVersionId": "1.13.2",
+			"name": "1.13.2",
+			"type": "custom"
+		},
+		"forge": {
+			"icon": "Furnace",
+			"javaArgs": "-Xmx10G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+			"lastUsed": "2019-07-28T14:29:32.372Z",
+			"lastVersionId": "1.10.2-forge1.10.2-12.18.3.2185",
+			"name": "",
+			"type": ""
+		},
+		"d861655c2856c8b9ff18a7005be3ea65": {
+			"created": "2019-07-28T20:43:00.231Z",
+			"icon": "Furnace",
+			"lastUsed": "2019-07-28T21:02:25.269Z",
+			"lastVersionId": "1.10",
+			"name": "1.10",
+			"type": "custom"
+		},
+		"c38e203c4053f3979db4f793a92d6bc9": {
+			"created": "2019-07-22T21:35:21.816Z",
+			"icon": "Furnace",
+			"lastUsed": "2019-08-23T14:26:48.344Z",
+			"lastVersionId": "1.8",
+			"name": "1.8.0",
+			"type": "custom"
+		},
+		"778cfeb315a19df181f2d2c8e2dd4b21": {
+			"created": "2019-08-21T21:26:39.136Z",
+			"icon": "Furnace",
+			"lastUsed": "1970-01-01T00:00:00.000Z",
+			"lastVersionId": "1.13.2",
+			"name": "1.13.2",
+			"type": "custom"
+		},
+		"HaxPack": {
+			"gameDir": "C:\\Users\\maceo\\AppData\\Roaming\\.minecraft\\modpacks\\HaxPack",
+			"javaArgs": "-Xmx6144M",
+			"lastUsed": "2019-07-20T17:09:34.584Z",
+			"lastVersionId": "HaxPack",
+			"name": "HaxPack",
+			"type": "custom"
+		}
+	},
+	"selectedUser": {
+		"account": "7a9e93e59d8d4bfdbaa53e826d49ee42",
+		"profile": "f0a1f0617c2d4f28a218370260bc9750"
+	},
+	"authenticationDatabase": {
+		"7a9e93e59d8d4bfdbaa53e826d49ee42": {
+			"accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3YTllOTNlNTlkOGQ0YmZkYmFhNTNlODI2ZDQ5ZWU0MiIsIm5iZiI6MTU3MTY5MjIzMywieWdndCI6ImY1ZGY5ZjNkMWMxNDRiYTg5OGFmOWJlNjM1NDQxYmMyIiwic3ByIjoiZjBhMWYwNjE3YzJkNGYyOGEyMTgzNzAyNjBiYzk3NTAiLCJyb2xlcyI6W10sImlzcyI6ImludGVybmFsLWF1dGhlbnRpY2F0aW9uIiwiZXhwIjoxNTcxODY1MDMzLCJpYXQiOjE1NzE2OTIyMzN9.3X3nmE3ooIW0cb70s3EUr8uRUF6jtcJZF9GosuyTVGI",
+			"profiles": {
+				"f0a1f0617c2d4f28a218370260bc9750": {
+					"displayName": "xMath_"
+				}
+			},
+			"properties": [],
+			"username": "maceo.leduc@live.fr"
+		}
+	}
+}
